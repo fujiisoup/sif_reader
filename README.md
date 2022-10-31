@@ -1,6 +1,12 @@
 sif_reader
 ============
 
+# Caution!!
+
+`sif_reader` has renamed to [`sif_parser`](https://github.com/fujiisoup/sif_parser).   
+https://github.com/fujiisoup/sif_parser
+Use `sif_parser` instead.
+
 [![Build Status](https://travis-ci.com/fujiisoup/sif_reader.svg?branch=master)](https://travis-ci.com/fujiisoup/sif_reader)
 
 ## Basic usage
